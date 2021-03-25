@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/FPGA_user/Desktop/xillinx_3/Anish/seg_ctrl_isim_beh.exe" -prj "C:/Users/FPGA_user/Desktop/xillinx_3/Anish/seg_ctrl_beh.prj" "work.seg_ctrl" 
