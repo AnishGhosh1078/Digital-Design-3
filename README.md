@@ -20,3 +20,11 @@ The displays common pin is generally used to identify which type of 7- segment d
 
 We implement a 15 bit counter and circuit clock divider. As long as we keep off the rst signal, the counter increments at each positive cycle of the input clock, which in our case is 50MHz. The counter then goes to zero as soon as rst is asserted.
 
+# Images after completion 
+
+
+
+![IMG_5995](https://user-images.githubusercontent.com/36340648/112401779-89251e80-8d0b-11eb-92c7-72abaa6f74a4.jpg)
+
+
+![IMG_5996](https://user-images.githubusercontent.com/36340648/112401804-993cfe00-8d0b-11eb-8fb1-39eeebeafb5c.jpg)
