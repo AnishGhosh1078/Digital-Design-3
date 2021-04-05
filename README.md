@@ -3,7 +3,7 @@
 
 # Aim
 
-The rightmost digit should display the hexadecimal value representing the rightmost 4 switches. The digit to its left should display the hexadecimal representation of the leftmost 4 switches. The remaining two digits should display the hexadecimal representation of the sum of the numbers on switches 0-3 and 4-7.
+The 7-segment display has 4 digits. The 2 leftmost digits are to be used to display, in hexadecimal, the binary values of the left-most 4 switches and rightmost 4- switches. I can easily say that the maximum value the switches can reach is 1111 which in decimal is 15 or in hexadecimal F. Therefore, I can say that the value of the digit is never going to be over 1 hexadecimal digit. The sum, on the other way as also seen from the maximum values of the two binary strings I am interested it might have 1 or 2 digits depending on the values. As soon as the sum goes over 15, it must be represented in two digits space and that is the reason why there are needed two digits spaces for the sum.
 
 # Ports in the module
 
